@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
         public static void Text2()
         {
-            Console.WriteLine("__________");
+            Console.WriteLine("Hello");
         }
     }
 }
